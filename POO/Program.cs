@@ -1,4 +1,12 @@
-﻿using POO;
+﻿/*
+ * Autor: Ing. Jorge Chan
+ * URL repositorio: https://github.com/GeorchitoChan/POO
+ * 
+ * La mente no tiene limites, el tiempo si.
+ * 
+ */
+
+using POO;
 
 Empresa empresa1 = new Empresa();
 
